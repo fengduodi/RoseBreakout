@@ -1,0 +1,10 @@
+C:\Users\CYH\source\repos\打磚瑰\打磚瑰\bin\Debug\打磚瑰.exe.config
+C:\Users\CYH\source\repos\打磚瑰\打磚瑰\bin\Debug\打磚瑰.exe
+C:\Users\CYH\source\repos\打磚瑰\打磚瑰\bin\Debug\打磚瑰.pdb
+C:\Users\CYH\source\repos\打磚瑰\打磚瑰\obj\Debug\打磚瑰.csproj.AssemblyReference.cache
+C:\Users\CYH\source\repos\打磚瑰\打磚瑰\obj\Debug\打磚瑰.Form1.resources
+C:\Users\CYH\source\repos\打磚瑰\打磚瑰\obj\Debug\打磚瑰.Properties.Resources.resources
+C:\Users\CYH\source\repos\打磚瑰\打磚瑰\obj\Debug\打磚瑰.csproj.GenerateResource.cache
+C:\Users\CYH\source\repos\打磚瑰\打磚瑰\obj\Debug\打磚瑰.csproj.CoreCompileInputs.cache
+C:\Users\CYH\source\repos\打磚瑰\打磚瑰\obj\Debug\打磚瑰.exe
+C:\Users\CYH\source\repos\打磚瑰\打磚瑰\obj\Debug\打磚瑰.pdb
